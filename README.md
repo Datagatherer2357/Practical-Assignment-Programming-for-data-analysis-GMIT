@@ -14,5 +14,4 @@
 To run the Jupyter Notebook it is recommended that you first download the full Anaconda package from: https://www.anaconda.com/.
 * Once you have downloaded Anaconda, the Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed in the start menu (Windows) or by typing in a terminal (cmd on Windows): "jupyter notebook".
 * This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open.
-* Now that you have Jupyter running properly, you can open any Jupyter Notebook you find on GitHub.
 * For additional queries about running a notebook please see: https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
